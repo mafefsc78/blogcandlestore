@@ -1,0 +1,152 @@
+*{
+	margin 0;
+	padding 0;
+}
+
+body{
+	color: blueviolet;
+	background-image: linear-gradient(pink, white, #ffffc6);
+}
+
+table{
+	width: 900px; 
+	text-align: center ;
+	margin-left: auto;
+ 	margin-right: auto;
+}
+
+
+.barradenav{
+	text-align: center ;
+	margin-left: auto;
+ 	margin-right: auto;
+
+}
+
+#linhafundo{
+	width: 1250px;
+	text-align: center ;
+	margin-left: auto;
+ 	margin-right: auto;
+}
+
+#logo{
+	width: 700px;
+	text-align: center ;
+	margin-left: auto;
+ 	margin-right: auto;
+}
+
+#homeicon{
+	width: 150px;
+	text-align: center ;
+	margin-left: auto;
+ 	margin-right: auto;
+}
+
+#quemsomos-icon{
+	width: 325px;
+	text-align: center ;
+	margin-left: auto;
+ 	margin-right: auto;
+}
+
+#contatoicon{
+	width: 200px;
+	text-align: center ;
+	margin-left: auto;
+ 	margin-right: auto;
+}
+
+#home{
+	text-align: center ;
+	margin-left: auto;
+ 	margin-right: auto;
+}
+
+#imgvelashome{
+	width: 900px;
+	text-align: center ;
+	margin-left: auto;
+ 	margin-right: auto;
+}
+
+#textohome{
+	font-size: 35px;
+	font-family: courier;
+	text-align: center ;
+	margin-left: auto;
+ 	margin-right: auto;
+
+}
+
+#quem_somos{
+	width: 1200px;
+	text-align: center ;
+	margin-left: auto;
+ 	margin-right: auto;
+}
+
+#contato{
+	font-size: 35px;
+	font-family: courier;
+	text-align: left ;
+	margin-left: auto;
+ 	margin-right: auto;
+
+}
+
+input{
+	font-size: 35px;
+	font-family: courier;
+	text-align: left ;
+	margin-left: auto;
+ 	margin-right: auto;
+}
+
+textarea{
+	font-size: 35px;
+	font-family: courier;
+	text-align: left ;
+	margin-left: auto;
+ 	margin-right: auto;
+}
+div.tabelafundo {
+	background-color: #d0a6b3;
+	border-left: 20px solid #4f4045;
+	padding: 5px;
+	width: 1200px;
+	margin: 20px 0 0 10px
+
+
+
+}
+
+#tabeladepreço, #titulo, #preços {
+   border: 1px solid black;
+   text-align: left;
+   border-collapse: collapse;
+   padding: 5px;
+   width: 600px;
+   font-size: 35px;
+   font-family: currier;
+   color: #274027 ;
+}
+ #quadro:nth-child(even) {
+   background-color: #dbbcdb.jpg;
+   transition: 0.3s background-color;
+}
+ #quadro:nth-child(odd) {
+   background-color: #c1d9ff;
+   transition: 0.3s background-color;
+}
+ #quadro:hover {
+   background-color: #fff;
+}
+
+#velaocean{
+	width:400px;
+    height:400px;
+    border:solid 1px;
+    border-radius:0px 50px 0px 50px;
+}
